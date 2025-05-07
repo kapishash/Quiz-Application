@@ -1,4 +1,5 @@
 # quiz-master-v2
+## IITM Modern Application Devlopement project
 
 
 QuizMaster v2
@@ -58,4 +59,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 📄 License
 This project is licensed under the MIT License.
 
-Developed by Kapish Ash
+Developed by Kapish Ashtankar
